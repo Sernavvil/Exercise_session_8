@@ -1,0 +1,11 @@
+Step 5
+-------
+git add .
+git commit -m "Commit for step 5."
+git log
+
+Step 6
+-------
+git add .
+git commit -m "Commit for step 6."
+git log
